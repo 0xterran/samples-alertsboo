@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "message": "Retrieved watcher successfully",
+  "data": {
+    "watcher": {
+      "id": "a8a90b09-2385-4622-a8a7-a3322119a418",
+      "platform": "Instagram",
+      "alias": "@insidehistory on Instagram",
+      "slug": "insidehistory",
+      "url": "https://instagram.com/insidehistory",
+      "createdAt": "2024-02-24T06:17:05.240Z",
+      "filterPrompt": "",
+      "status": "Awaiting",
+      "webhookUrl": "",
+      "note": "",
+      "autoExpireMs": 7776000000,
+      "expiresAt": "2024-05-24T06:17:05.240Z",
+      "userID": "USRwE3EnuBgafcBS46R1TiFyozC2"
+    }
+  }
+}

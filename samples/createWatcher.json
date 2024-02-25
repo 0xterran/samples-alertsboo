@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "Created watcher successfully",
+  "data": {
+    "watcher": {
+      "id": "7b7a51a9-4708-480a-b232-312aa509f548",
+      "platform": "Instagram",
+      "alias": "wasted on Instagram",
+      "slug": "wasted",
+      "url": "https://instagram.com/wasted",
+      "createdAt": "2024-02-24T23:07:57.560Z",
+      "filterPrompt": "Alert me if its a post about the Roman Empire",
+      "status": "Pending",
+      "webhookUrl": "https://steep-photographer-66.webhook.cool",
+      "note": "A private note for your team",
+      "autoExpireMs": 2592000000,
+      "expiresAt": "2024-03-25T23:07:57.560Z",
+      "userID": "USRwE3EnuBgafcBS46R1TiFyozC2",
+      "customData": {
+        "uid": "your-custom-unique-id",
+        "data": "{\"hello\":\"world\"}"
+      }
+    }
+  }
+}

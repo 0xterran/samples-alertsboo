@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "Retreieved user successfully",
+  "data": {
+    "user": {
+      "id": "USRwE3EnuBgafcBS46R1TiFyozC2",
+      "alias": "entropyinternetorg@gmail.com",
+      "email": "entropyinternetorg@gmail.com",
+      "apiToken": "a873d8d1-d1c1-4d40-906a-37bf27c0d5b6",
+      "createdAt": "2024-02-24T06:16:12.863Z",
+      "walletCreditBalance": 98.32,
+      "billingPlanLabel": "Starter Plan of 100 credits for $5 monthly",
+      "paymentCard": { "last4": "2007" }
+    }
+  }
+}

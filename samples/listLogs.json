@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "message": "Found logs for this watcher",
+  "data": {
+    "logs": [
+      {
+        "id": "49a83757-49a7-4c4a-b138-661f5b8cefd6",
+        "watcherID": "4c021af6-60e7-4e29-a795-9886f6b1ebfe",
+        "userID": "USRwE3EnuBgafcBS46R1TiFyozC2",
+        "prompt": "",
+        "passPromptFilter": true,
+        "status": "Finished",
+        "platform": "Instagram",
+        "type": "instagram_post",
+        "alias": "@alerts.boo uploaded a post on Instagram",
+        "memo": "Alert criteria met",
+        "createdAt": "2024-02-24T17:26:21.991Z",
+        "url": "https://instagram.com/p/C3vQ1oIOUiR",
+        "fullObjectUrl": "https://firebasestorage.googleapis.com/v0/b/alertsboo-prod.appspot.com/o/alerts%2F17211a79-afda-4cba-a44d-190ef540d7d0%2F17211a79-afda-4cba-a44d-190ef540d7d0.json?alt=media",
+        "creditsConsumed": 0.68
+      }
+    ],
+    "nextCursor": "49a83757-49a7-4c4a-b138-661f5b8cefd6",
+    "count": 1
+  }
+}

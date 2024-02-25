@@ -1,0 +1,16 @@
+{
+  "success": true,
+  "message": "Rotated user api-key successfully",
+  "data": {
+    "user": {
+      "id": "USRwE3EnuBgafcBS46R1TiFyozC2",
+      "alias": "entropyinternetorg@gmail.com",
+      "email": "entropyinternetorg@gmail.com",
+      "apiToken": "e8dc5484-a4fd-4e59-a6e9-f05b1ff059bc",
+      "createdAt": "2024-02-24T06:16:12.863Z",
+      "walletCreditBalance": 99.32,
+      "billingPlanLabel": "Starter Plan of 100 credits for $5 monthly",
+      "paymentCard": { "last4": "2066" }
+    }
+  }
+}
