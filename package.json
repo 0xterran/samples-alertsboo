@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "prettier": "npx prettier --write ./samples/payloadInstagram.json"
+  },
   "dependencies": {
     "prettier": "^3.2.5"
   }
